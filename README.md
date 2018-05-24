@@ -16,17 +16,17 @@
 ```
 
 ```
-# Configurações > Sistema > Notificações e Ações
+# WPR -cancel  
 ```
 
 ```
-# 
+# wusa /uninstall /kb:3201845
 ```
 
 ```
-# 
+# wsreset
 ```
 
 ```
-# 
+# Configurações > Sistema > Notificações e Ações > Desativar Dicas do Windows
 ```
